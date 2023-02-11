@@ -495,6 +495,7 @@ text-align: center;
   justify-content: center;
   gap: 24px;
   margin: 0;
+  padding: 0;
 }
 
 .clients-rectangle {
